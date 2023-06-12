@@ -22,6 +22,9 @@ Passo 3 - Se você criou um novo, crie um pacote para que seu repositório seja 
 
 Passo 4 - Agora acesse o Github da Fábrica de Software e navegue até o repositório do acelerador que deseja usar.
 
+Passo 5 - Agora vamos clonar o repositório baixando ele em formato ZIP.
+Exemplo abaixo:
+
 
 
 
